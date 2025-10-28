@@ -12,18 +12,18 @@ I'm a **Software Developer** specializing in **frontend development** and **UI/U
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 - Full-featured Star Wars-themed card game built entirely with **Angular** and **AWS CDK**.
-- Real-time gameplay with WebSocket backend and scalable AWS services (**DynamoDB**, **S3**, **CloudFront**, etc.).
+- Real-time gameplay with WebSocket backend and scalable AWS services (**DynamoDB**, **S3**, **CloudFront**, **API Gatweway**, **WebSocket**).
 - Over **1,000 registered users** actively playing.
 
 ---
 
-### [StoryShelf](https://storyshelf.org/links) – Mobile App for Readers & Writers
+### [StoryShelf](https://storyshelf.org/links) – Mobile App for Readers & Kids
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 
 - Mobile app built with **Flutter** and **AWS CDK**.
 - Available on **iOS** and **Android**.
-- Platform to **read, write, and share stories** with a scalable cloud backend.
+- Platform to **read, review, and connect with friends** with a scalable cloud backend.
 
 ---
 
