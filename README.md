@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Zach Pfaltzgraff
 
 I'm a **Software Developer** specializing in **frontend development** and **UI/UX design**, with over **3 years of experience** building scalable, user-friendly applications.
-![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZachPfaltzgraff&show_icons=true&theme=radical)
 
 ---
 
@@ -57,3 +56,12 @@ Flutter, Mobile Development, Real-Time Applications, Scalability & Performance O
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zach%20Pfaltzgraff-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zach-pfaltzgraff-45769b2a5/)  
 [![Email](https://img.shields.io/badge/Email-zachpfaltzgraff@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:zachpfaltzgraff@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![My Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZachPfaltzgraff&theme=react-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZachPfaltzgraff&layout=compact&theme=radical)
+
