@@ -36,7 +36,7 @@ Angular, React, TypeScript, JavaScript, HTML5, CSS3, UI/UX Design
 Java Spring Boot, PHP, AWS CDK (DynamoDB, S3, CloudFront, Lambda, etc.), SQL (CockroachDB), WebSockets  
 
 **DevOps & Tools:**  
-Kubernetes, Docker, Git, CI/CD pipelines, Unit & Integration Testing  
+Kubernetes, Docker, Podman, Git, CI/CD pipelines, Unit & Integration Testing  
 
 **Other:**  
 Flutter, Mobile Development, Real-Time Applications, Scalability & Performance Optimization  
