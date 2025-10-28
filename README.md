@@ -30,7 +30,7 @@ I'm a **Software Developer** specializing in **frontend development** and **UI/U
 ## 🛠 Skills
 
 **Frontend:**  
-Angular, React, TypeScript, JavaScript, HTML5, CSS3, UI/UX Design  
+Angular, React, TypeScript, JavaScript, HTML, CSS, UI/UX Design  
 
 **Backend & Cloud:**  
 Java Spring Boot, PHP, AWS CDK (DynamoDB, S3, CloudFront, Lambda, etc.), SQL (CockroachDB), WebSockets  
