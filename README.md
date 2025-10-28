@@ -54,9 +54,5 @@ Flutter, Mobile Development, Real-Time Applications, Scalability & Performance O
 
 ## 📫 Connect with Me
 
-- Portfolio & Projects: [https://zabekk.com](https://zabekk.com)  
-- Mobile App: [https://storyshelf.org/links](https://storyshelf.org/links)  
-
----
-
-**“I enjoy turning complex problems into seamless user experiences through code and design.”**
+- LinkedIn: [[https://www.linkedin.com/in/zachpfaltzgraff](https://www.linkedin.com/in/zachpfaltzgraff)](https://www.linkedin.com/in/zach-pfaltzgraff-45769b2a5/)
+- Email: [zachpfaltzgraff@gmail.com](mailto:zachpfaltzgraff@gmail.com) 
