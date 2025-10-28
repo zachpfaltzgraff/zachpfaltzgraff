@@ -55,4 +55,4 @@ Flutter, Mobile Development, Real-Time Applications, Scalability & Performance O
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zach%20Pfaltzgraff-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zach-pfaltzgraff-45769b2a5/)  
-[![Email](https://img.shields.io/badge/Email-your--zachpfaltzgraff@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:zachpfaltzgraff@gmail.com)
+[![Email](https://img.shields.io/badge/Email-zachpfaltzgraff@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:zachpfaltzgraff@gmail.com)
