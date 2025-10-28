@@ -61,7 +61,7 @@ Flutter, Mobile Development, Real-Time Applications, Scalability & Performance O
 
 ## 📊 GitHub Stats
 
-![My Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=ZachPfaltzgraff&theme=github)
+![GitHub Calendar](https://github-readme-activity-graph.vercel.app/graph?username=ZachPfaltzgraff&theme=github&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZachPfaltzgraff&layout=compact&theme=radical)
 
