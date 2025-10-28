@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Zach Pfaltzgraff
 
 I'm a **Software Developer** specializing in **frontend development** and **UI/UX design**, with over **3 years of experience** building scalable, user-friendly applications.
+![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZachPfaltzgraff&show_icons=true&theme=radical)
 
 ---
 
