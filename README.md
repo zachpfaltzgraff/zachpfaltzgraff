@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Zach Pfaltzgraff
+# 👋 Hi, I’m Zach Pfaltzgraff ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZachPfaltzgraff&layout=compact&theme=radical)
 
 I'm a **Software Developer** specializing in **frontend development** and **UI/UX design**, with over **3 years of experience** building scalable, user-friendly applications.
 
