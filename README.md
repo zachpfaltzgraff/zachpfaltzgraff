@@ -56,12 +56,3 @@ Flutter, Mobile Development, Real-Time Applications, Scalability & Performance O
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zach%20Pfaltzgraff-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zach-pfaltzgraff-45769b2a5/)  
 [![Email](https://img.shields.io/badge/Email-zachpfaltzgraff@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:zachpfaltzgraff@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Calendar](https://github-readme-activity-graph.vercel.app/graph?username=ZachPfaltzgraff&theme=github&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZachPfaltzgraff&layout=compact&theme=radical)
-
