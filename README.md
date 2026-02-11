@@ -34,7 +34,7 @@ I'm a **Software Developer** specializing in **frontend development** and **UI/U
 Angular, React, TypeScript, JavaScript, HTML, CSS, UI/UX Design  
 
 **Backend & Cloud:**  
-Java Spring Boot, PHP, AWS CDK (DynamoDB, S3, CloudFront, Lambda, etc.), SQL (CockroachDB), WebSockets  
+Java Spring Boot, PHP, AWS CDK (DynamoDB, S3, CloudFront, Lambda, etc.), SQL (MySQL, PostgreSQL, CockroachDB), WebSockets  
 
 **DevOps & Tools:**  
 Kubernetes, Docker, Podman, Git, CI/CD pipelines, Unit & Integration Testing  
