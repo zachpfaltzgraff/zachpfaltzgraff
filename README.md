@@ -15,7 +15,7 @@ I'm a **Software Developer** specializing in **frontend development** and **UI/U
 - Available on **iOS** and **Android**.
 - Platform to **read, review, and connect with friends** with a scalable cloud backend.
 
----
+-
 
 ### [Zabekk](https://zabekk.com) – Star Wars Card Game
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
