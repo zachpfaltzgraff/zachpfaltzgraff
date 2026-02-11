@@ -6,16 +6,6 @@ I'm a **Software Developer** specializing in **frontend development** and **UI/U
 
 ## 🚀 Featured Projects
 
-### [Zabekk](https://zabekk.com) – Star Wars Card Game
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-
-- Full-featured Star Wars-themed card game built entirely with **Angular** and **AWS CDK**.
-- Real-time gameplay with WebSocket backend and scalable AWS services (**DynamoDB**, **S3**, **CloudFront**, **API Gatweway**, **WebSocket**).
-- Over **1,000 registered users** actively playing.
-
----
 
 ### [StoryShelf](https://storyshelf.org/links) – Mobile App for Readers & Kids
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
@@ -24,6 +14,17 @@ I'm a **Software Developer** specializing in **frontend development** and **UI/U
 - Mobile app built with **Flutter** and **AWS CDK**.
 - Available on **iOS** and **Android**.
 - Platform to **read, review, and connect with friends** with a scalable cloud backend.
+
+---
+
+### [Zabekk](https://zabekk.com) – Star Wars Card Game
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+- Full-featured Star Wars-themed card game built entirely with **Angular** and **AWS CDK**.
+- Real-time gameplay with WebSocket backend and scalable AWS services (**DynamoDB**, **S3**, **CloudFront**, **API Gatweway**, **WebSocket**).
+- Over **1,000 registered users** actively playing.
 
 ---
 
