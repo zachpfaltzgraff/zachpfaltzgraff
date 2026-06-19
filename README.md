@@ -24,7 +24,7 @@ I'm a **Software Developer** specializing in **frontend development** and **UI/U
 
 - Full-featured Star Wars-themed card game built entirely with **Angular** and **AWS CDK**.
 - Real-time gameplay with WebSocket backend and scalable AWS services (**DynamoDB**, **S3**, **CloudFront**, **API Gatweway**, **WebSocket**).
-- Over **1,000 registered users** actively playing.
+- Over **2,000 registered users** actively playing.
 
 ---
 
